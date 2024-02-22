@@ -31,3 +31,9 @@ console.log("To wei", toWei(0.1));
 ```
  await wait(10000);
 ```
+
+### uniqueValues - find the unique value of an array
+
+```
+console.log(uniqueValues(array));
+```

@@ -1,6 +1,6 @@
 {
   "name": "reeta",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "My functions for blockchain",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/theritalin/reeta/issues"
   },
-  "homepage": "https://github.com/theritalin/reeta#readme"
+  "homepage": "https://github.com/theritalin/reeta#readme",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "lodash": "^4.17.21"
+  }
 }
