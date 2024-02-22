@@ -1,0 +1,19 @@
+{
+  "name": "reeta",
+  "version": "1.0.0",
+  "description": "My math and other functions for blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theritalin/reeta.git"
+  },
+  "author": "theritalin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theritalin/reeta/issues"
+  },
+  "homepage": "https://github.com/theritalin/reeta#readme"
+}
