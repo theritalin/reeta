@@ -4,10 +4,30 @@
 npm install reeta
 
 ```
+
 # USAGE
+
+### import
 
 ```
 const { sum, toWei } = require("reeta");
-console.log("The sum of 2 and 3 is ", sum(2, 3));
+```
+
+### sum - to sum two number
+
+```
+const { sum, toWei } = require("reeta");
+
+```
+
+### toWei - to change ethers to wei
+
+```
 console.log("To wei", toWei(0.1));
+```
+
+### wait - to wait as miliseconds
+
+```
+ await wait(10000);
 ```

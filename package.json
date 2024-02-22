@@ -1,7 +1,7 @@
 {
   "name": "reeta",
-  "version": "1.0.2",
-  "description": "My math and other functions for blockchain",
+  "version": "1.0.3",
+  "description": "My functions for blockchain",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
