@@ -1,6 +1,6 @@
 {
   "name": "reeta",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "My functions for blockchain",
   "main": "index.js",
   "scripts": {
