@@ -1,6 +1,6 @@
 {
   "name": "reeta",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "My functions for blockchain",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/theritalin/reeta.git"
+    "url": "https://github.com/theritalin/reeta.git"
   },
   "author": "theritalin",
   "license": "MIT",
